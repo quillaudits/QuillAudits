@@ -6,8 +6,8 @@ Committed to Blockchain security with our cutting-edge Web3 security solutions.
 
 We at QuillAudits have -
 
-- 850+ Projects Audited in Defi, NFT and DAO
-- 800K + Lines of codes audited
+- 100+ Projects Audited in Defi, NFT and DAO
+- 1000K + Lines of codes audited
 - 1000's of high and mid level Vulnerable issues detected for the projects audited
 - Billion $ of Investors funds protected subsequently
 - Trusted partner for Launchpad and venture funds such as Woodstock, Unicrypt, Pathfund, Superlauncher, dxsale
