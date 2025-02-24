@@ -6,7 +6,7 @@ Committed to Blockchain security with our cutting-edge Web3 security solutions.
 
 We at QuillAudits have -
 
-- 1000+ Projects Audited in Defi, NFT and DAO
+- 1400+ Projects Audited in Defi, NFT and DAO
 - 1M+ Lines of codes audited
 - 1000's of high and mid level Vulnerable issues detected for the projects audited
 - Billion $ of Investors funds protected subsequently
