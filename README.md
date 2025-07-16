@@ -14,3 +14,9 @@ We at QuillAudits have -
 - Audit accepted by 50+ exchanges.
 
 our Previous Audit reports can be viewed on our Github: https://github.com/Quillhash/Audit_Reports
+
+## 2025 H1 Report: Crypto Exploits and Security Breaches
+
+Dive deep into the critical and escalating vulnerabilities threatening the Web3 ecosystem with the release of our comprehensive H1 2025 report on crypto exploits and security breaches. This crucial analysis reveals a stark increase in financial losses, with over $2.29 billion vanishing in the first half of 2025 alone, surpassing the total losses of the previous year and setting a new historical record. 
+
+[![Download](https://img.shields.io/badge/Download-Report-blue?style=for-the-badge&logo=github)](https://www.quillaudits.com/reports/crypto-exploits-h1-report-2025)
